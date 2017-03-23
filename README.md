@@ -4,7 +4,6 @@ Somento recomendo quando você tem que pegar um volume de dados grande, que seri
 
 ## Primeiro passo instalar as gems:
 
-gem install nokogiri
-gem install httparty
-gem install pry
+### gem install nokogiri
+### gem install selenium-webdriver
 
