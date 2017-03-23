@@ -1,5 +1,6 @@
 # ruby_web-scraping
-exemplo de como implementar o web-scraping em ruby.
+Exemplo de como implementar o web-scraping em ruby e combinando com o Selenium WebDriver.
+Somento recomendo quando você tem que pegar um volume de dados grande, que seria muito lento pelo selenium.
 
 ## Primeiro passo instalar as gems:
 
